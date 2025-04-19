@@ -54,7 +54,7 @@ header .left-text {
 }
 
 header .hero {
-    background: url('images/backgroundheader.jpg') no-repeat center center;
+    background: url('Images/backgroundheader.jpg') no-repeat center center;
     background-size: cover;
     width: 100%;
     padding: 150px 0;
